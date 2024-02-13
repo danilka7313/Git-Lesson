@@ -5,3 +5,4 @@ git init - инициализация
 git status - команда статуса
 ## Git Lesson 2 
 git branch - новые ветки
+git version - проверка версии
