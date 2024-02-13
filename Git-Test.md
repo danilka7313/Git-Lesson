@@ -8,3 +8,4 @@ git branch - новые ветки
 git commit - коммиты
 git version - проверка версии
 ## Git Lesson3
+git log - логи
