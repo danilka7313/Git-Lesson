@@ -9,3 +9,7 @@ git commit - коммиты
 git version - проверка версии
 ## Git Lesson3
 git log - логи
+git log - логи коммитов
+
+## Git Lesson4
+git checkout - переход на другую ветвь
