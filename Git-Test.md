@@ -6,3 +6,4 @@ git status - команда статуса
 ## Git Lesson 2 
 git branch - новые ветки
 git commit - коммиты
+git version - проверка версии
