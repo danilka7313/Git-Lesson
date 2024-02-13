@@ -3,3 +3,4 @@ git add - версионность
 
 git status - команда статуса
 ## Git Lesson 2 
+git branch - новые ветки
