@@ -1,5 +1,5 @@
 # Git Lesson 1
 git add - версионность 
 
-
-## Git Lesson 2
+git status - команда статуса
+## Git Lesson 2 
