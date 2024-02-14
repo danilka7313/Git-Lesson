@@ -15,7 +15,7 @@ git log - логи коммитов
 git checkout - переход на другую ветвь
 
 
-
+git bro
 
 
 
